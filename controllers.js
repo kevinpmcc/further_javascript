@@ -8,5 +8,5 @@
 
     self.removeToDo = function() {
       self.todos.pop();
-    }
+    };
   }]);
